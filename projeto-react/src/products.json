@@ -1,0 +1,65 @@
+[
+    {
+    "id": 1,
+    "nome": "Lua de mel em Vênus",
+    "valor": 3500,
+    "imagem": "../Img/venus.png",
+    "alt": "Vênus"
+    },
+
+    {
+    "id": 2,
+    "nome": "Férias em Marte",
+    "valor": 1800,
+    "imagem": "../Img/venus.png",
+    "alt": "Marte"
+    },
+
+    {
+    "id": 3,
+    "nome": "Fim de semana em Mercurio",
+    "valor": 850,
+    "imagem": "../Img/mercurio.jpg",
+    "alt": "Mercurio"
+    },
+
+    {
+    "id": 4,
+    "nome": "Reveillon em Saturno",
+    "valor": 4500,
+    "imagem": "../Img/venus.png",
+    "alt": "Saturno"
+    },
+
+    {
+    "id": 5,
+    "nome": "Carnaval em Júpiter",
+    "valor": 2,
+    "imagem": "../Img/venus.png",
+    "alt": "Júpiter"
+    },
+
+    {
+    "id": 6,
+    "nome": "Tour em volta da Terra",
+    "valor": 2,
+    "imagem": "../Img/venus.png",
+    "alt": "Terra"
+    },
+
+    {
+    "id": 7,
+    "nome": "Pacote de inverno em Urano",
+    "valor": 2,
+    "imagem": "../Img/venus.png",
+    "alt": "Urano"
+    },
+    
+    {
+    "id": 8,
+    "nome": "Tour em volta do Sol",
+    "valor": 2,
+    "imagem": "../Img/venus.png",
+    "alt": "Sol"
+    }
+]
